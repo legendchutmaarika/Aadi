@@ -1,0 +1,85 @@
+UserID: 1302320722 | Time: 2024-06-08 18:34:57.920137 | Command: aadi | Target: 104.211.240.110 | Port: 11468 | Time: 240
+Username: @user_x_dead
+Target: 104.211.240.110
+Port: 11468
+Time: 240
+
+UserID: 1302320722 | Time: 2024-06-08 18:48:24.754847 | Command: aadi | Target: 104.211.240.110 | Port: 11468 | Time: 90
+Username: @user_x_dead
+Target: 104.211.240.110
+Port: 11468
+Time: 90
+
+UserID: 1302320722 | Time: 2024-06-08 18:50:39.017967 | Command: aadi | Target: 20.198.7.12 | Port: 20020 | Time: 240
+Username: @user_x_dead
+Target: 20.198.7.12
+Port: 20020
+Time: 240
+
+UserID: 1302320722 | Time: 2024-06-08 18:54:00.853912 | Command: aadi | Target: 20.198.7.12 | Port: 20020 | Time: 120
+Username: @user_x_dead
+Target: 20.198.7.12
+Port: 20020
+Time: 120
+
+UserID: 1302320722 | Time: 2024-06-08 19:13:46.748839 | Command: aadi | Target: 20.204.191.192 | Port: 10011 | Time: 120
+Username: @user_x_dead
+Target: 20.204.191.192
+Port: 10011
+Time: 120
+
+UserID: 1302320722 | Time: 2024-06-08 19:14:34.337146 | Command: aadi | Target: 20.204.191.192 | Port: 10011 | Time: 120
+Username: @user_x_dead
+Target: 20.204.191.192
+Port: 10011
+Time: 120
+
+UserID: 1302320722 | Time: 2024-06-08 19:23:15.212484 | Command: aadi | Target: 20.235.11.135 | Port: 24007 | Time: 240
+Username: @user_x_dead
+Target: 20.235.11.135
+Port: 24007
+Time: 240
+
+UserID: 1302320722 | Time: 2024-06-08 20:07:39.088638 | Command: aadi | Target: 20.219.161.193 | Port: 14639 | Time: 240
+Username: @user_x_dead
+Target: 20.219.161.193
+Port: 14639
+Time: 240
+
+UserID: 1302320722 | Time: 2024-06-08 20:11:45.772581 | Command: aadi | Target: 20.219.161.193 | Port: 14639 | Time: 200
+Username: @user_x_dead
+Target: 20.219.161.193
+Port: 14639
+Time: 200
+
+UserID: 1302320722 | Time: 2024-06-09 16:28:43.741636 | Command: aadi | Target: 20.204.189.246 | Port: 10255 | Time: 240
+Username: @user_x_dead
+Target: 20.204.189.246
+Port: 10255
+Time: 240
+
+UserID: 1302320722 | Time: 2024-06-09 16:44:50.127897 | Command: aadi | Target: 20.235.93.18 | Port: 29737 | Time: 240
+Username: @user_x_dead
+Target: 20.235.93.18
+Port: 29737
+Time: 240
+
+UserID: 1302320722 | Time: 2024-06-09 17:08:11.267842 | Command: aadi | Target: 20.235.93.18 | Port: 29737 | Time: 240
+Username: @user_x_dead
+Target: 20.235.93.18
+Port: 29737
+Time: 240
+
+UserID: 1302320722 | Time: 2024-06-10 09:40:45.387448 | Command: aadi | Target: 20.235.13.172 | Port: 26831 | Time: 240
+Username: @user_x_dead
+Target: 20.235.13.172
+Port: 26831
+Time: 240
+
+UserID: 1302320722 | Time: 2024-06-10 09:45:10.549628 | Command: aadi | Target: 20.235.13.172 | Port: 26831 | Time: 240
+UserID: 1302320722 | Time: 2024-06-10 09:55:59.387150 | Command: aadi | Target: 20.219.161.180 | Port: 24578 | Time: 240
+Username: @user_x_dead
+Target: 20.219.161.180
+Port: 24578
+Time: 240
+
